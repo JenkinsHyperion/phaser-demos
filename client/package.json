@@ -22,7 +22,7 @@
     "@types/dat.gui": "^0.7.4",
     "dat.gui": "^0.7.6",
     "phaser": "^3.19.0",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.5.0"
   },
   "devDependencies": {
     "@types/socket.io": "^2.1.4",
